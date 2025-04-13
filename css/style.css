@@ -1,0 +1,52 @@
+.header{
+/*	height: 100px;*/
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.h100{
+	height: 100px;
+}
+
+.blog{
+	float: left;
+	width: 70%;
+	height: 100px;
+	background-color: blue;
+
+}
+.contact{
+	float: right;
+	height: 100px;
+	width: 30%;	background-color: green;
+}
+
+
+.item {
+	float: left;
+	width: 33.33%;
+/*	height: 100px;*/
+}
+
+.orchid{
+	background-color: orchid;
+}
+.skyblue{
+	background-color: skyblue;
+}
+.aqua{ 
+	background-color: aqua;
+}
+
+
+
+
+.footer{ 
+/*	clear: both;*/
+/*	height: 100px;*/
+	background-color: black;
+}
+
